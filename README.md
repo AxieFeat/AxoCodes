@@ -4,9 +4,9 @@
 Зависимость: PlaceholderAPI 2.11.2+
 
 Команды:
-  /code <код> - использовать промокод; (axocode.code)
-  /axocode reload - перезагрузка конфига; (axocode.reload)
-  /axocode stat <код> - просмотреть количество активаций промокода. (axocode.stat)
+  - /code <код> - использовать промокод; (axocode.code)
+  - /axocode reload - перезагрузка конфига; (axocode.reload)
+  - /axocode stat <код> - просмотреть количество активаций промокода. (axocode.stat)
 
 Особенности:
   - Промокод можно активировать только 1 раз;
