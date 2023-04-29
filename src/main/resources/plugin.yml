@@ -1,0 +1,11 @@
+name: ForcePromoCodes
+version: '${version}'
+main: ru.axiefeat.Main
+softdepend: [ PlaceholderAPI ]
+authors: [ AxieFeat ]
+description: Promocode plugin
+website: https://vk.com/pingisjoin
+
+commands:
+  axocode:
+  code:
